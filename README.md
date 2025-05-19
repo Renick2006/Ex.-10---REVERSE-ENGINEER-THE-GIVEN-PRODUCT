@@ -1,6 +1,8 @@
 # Ex.   - REVERSE ENGINEER THE GIVEN PRODUCT
+## Name: Renick Fabian Rajesh
+### Register Number: 212224230227
 
-### DATE: 
+### DATE: 19-05-2025
 
 ## AIM: 
 ### To reverse engineering the product and prototyping the same in 3D printer.
@@ -34,9 +36,9 @@
 
 ### Output:
 
+![EMPD 44](https://github.com/user-attachments/assets/3edbe522-0b19-43cb-b6db-d70fb0a221f0)
 
-### Name:
-### Register Number:
+
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
